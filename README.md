@@ -12,6 +12,6 @@ This repository contains:
 - Final vulnerability reports
 
 ## Useful Links
-🔗 TryHackMe Profile: (paste your link here)
-🔗 LinkedIn: (optional)
+🔗 TryHackMe Profile: https://tryhackme.com/p/barathkumar46007
+🔗 LinkedIn: 
 
